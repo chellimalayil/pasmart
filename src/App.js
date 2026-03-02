@@ -2,7 +2,7 @@ import './App.css';
 
 const categories = [
   {
-    title: 'Gold Jewelry',
+    title: 'Gold Jewellery',
     description: 'Necklaces, bangles, and rings in 22K and 24K.',
     tone: 'gold',
   },
